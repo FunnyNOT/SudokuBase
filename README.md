@@ -1,2 +1,1 @@
 # SudokuBase
-# SudokuBase
